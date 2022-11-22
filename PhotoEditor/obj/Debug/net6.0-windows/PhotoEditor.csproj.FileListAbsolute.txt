@@ -1,0 +1,17 @@
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\bin\Debug\net6.0-windows\PhotoEditor.exe
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\bin\Debug\net6.0-windows\PhotoEditor.deps.json
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\bin\Debug\net6.0-windows\PhotoEditor.runtimeconfig.json
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\bin\Debug\net6.0-windows\PhotoEditor.dll
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\bin\Debug\net6.0-windows\PhotoEditor.pdb
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\obj\Debug\net6.0-windows\PhotoEditor.csproj.AssemblyReference.cache
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\obj\Debug\net6.0-windows\PhotoEditor.Form1.resources
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\obj\Debug\net6.0-windows\PhotoEditor.csproj.GenerateResource.cache
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\obj\Debug\net6.0-windows\PhotoEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\obj\Debug\net6.0-windows\PhotoEditor.AssemblyInfoInputs.cache
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\obj\Debug\net6.0-windows\PhotoEditor.AssemblyInfo.cs
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\obj\Debug\net6.0-windows\PhotoEditor.csproj.CoreCompileInputs.cache
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\obj\Debug\net6.0-windows\PhotoEditor.dll
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\obj\Debug\net6.0-windows\refint\PhotoEditor.dll
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\obj\Debug\net6.0-windows\PhotoEditor.pdb
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\obj\Debug\net6.0-windows\PhotoEditor.genruntimeconfig.cache
+C:\Users\mafte\source\repos\PhotoEditor\PhotoEditor\obj\Debug\net6.0-windows\ref\PhotoEditor.dll
