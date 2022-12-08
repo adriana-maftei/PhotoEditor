@@ -10,6 +10,6 @@ This project is a Photo Editor app made with Visual Studio & C# programmming lan
 
 ![1](https://user-images.githubusercontent.com/115250887/206473011-199690dc-0793-4669-8e8d-c196cfd4f1ff.PNG)
 
-![3](https://user-images.githubusercontent.com/115250887/206473037-684011ab-6c09-4ae0-a727-b8cee3b03a22.PNG)
-
 ![pe4](https://user-images.githubusercontent.com/115250887/206473047-e7276202-80c2-4482-9721-e2f4afcfdd07.PNG)
+
+![3](https://user-images.githubusercontent.com/115250887/206473037-684011ab-6c09-4ae0-a727-b8cee3b03a22.PNG)
